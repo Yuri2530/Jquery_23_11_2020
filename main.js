@@ -47,8 +47,8 @@ let hobbie="escuchar música";
 
 console.log("Mi nombre es: " +nombre);
 console.log("Mis apellidos son: " +apellido);
-console.log("Mi edad es: "+edad_number);
-console.log("Mi genero es: "+edad_number);
+console.log("Mi edad es: "+edad);
+console.log("Mi genero es: "+genero);
 console.log("Mi correo es: "+email);
 console.log("Vesturio: "+vestido);
 console.log("Lleva algo en el cuello?: "+cuello_lleva_accesorio);
